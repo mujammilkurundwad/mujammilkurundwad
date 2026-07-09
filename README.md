@@ -12,7 +12,7 @@ Final Year B.Tech ECE Student | Full Stack Developer | Python Learner | Problem 
 - 📊 Learning Data Analytics (Python, Pandas, SQL, Power BI)
 - 🌱 Currently improving DSA and System Design
 - 👨‍💻 Working on MERN and Data Analytics Projects
-- 📫 Reach me at: **your_email@gmail.com**
+- 📫 Reach me at: **mujammilkurundwad@gmail.com**
 
 - ## 🌐 Connect With Me
 
