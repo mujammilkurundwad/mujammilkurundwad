@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mujammil Kurundwad</h1>
-<h3 align="center">Aspiring AI Engineer | MERN Stack Developer | Data Analytics Enthusiast</h3>
+<h3 align="center"> AI Engineer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-Final Year B.Tech ECE Student | Full Stack Developer | AI/ML Learner | Problem Solver
+Final Year B.Tech ECE Student | AI/ML Learner | Problem Solver
 </p>
 
 ## 🚀 About Me
@@ -53,9 +53,9 @@ Final Year B.Tech ECE Student | Full Stack Developer | AI/ML Learner | Problem S
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=mujammilkurundwad&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mujammilkurundwad&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mujammilkurundwad&layout=compact&theme=tokyonight)
 
 ## 🔥 Featured Projects
 
