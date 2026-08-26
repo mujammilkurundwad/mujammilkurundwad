@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mujammil Kurundwad</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack | Data Analytics Enthusiast</h3>
+<h3 align="center">Aspiring AI Engineer | MERN Stack Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-Final Year B.Tech ECE Student | Full Stack Developer | Python Learner | Problem Solver
+Final Year B.Tech ECE Student | Full Stack Developer | AI/ML Learner | Problem Solver
 </p>
 
 ## 🚀 About Me
-
 - 🎓 Final Year B.Tech (ECE) Student at SITCOE, Ichalkaranji
+- 🤖 Exploring AI Engineering — building AI-powered assistants and applications
 - 💻 Full Stack Web Developer (MERN Stack)
 - 📊 Learning Data Analytics (Python, Pandas, SQL, Power BI)
-- 🌱 Currently improving DSA and System Design
-- 👨‍💻 Working on MERN and Data Analytics Projects
+- 🌱 Currently improving DSA, System Design, and LLM-based app development
+- 👨‍💻 Working on MERN, AI, and Data Analytics Projects
 - 📫 Reach me at: **mujammilkurundwad@gmail.com**
 
-- ## 🌐 Connect With Me
-
+## 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/mujammil-kurundwad-1016a92a1/) •
 [Portfolio](YOUR_PORTFOLIO_URL) •
-[Email](mailto:mujammilkurundwad@gmail)
+[Email](mailto:mujammilkurundwad@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -41,24 +40,29 @@ Final Year B.Tech ECE Student | Full Stack Developer | Python Learner | Problem 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
+### AI / Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+
 ### Data Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 
-
-
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-
-
 ## 🔥 Featured Projects
+
+### 🤖 AI Assistant
+- Personal AI assistant built with Python and LLM APIs
+- Handles natural language queries, task automation, and conversational responses
+- Integrates prompt engineering and context handling for smarter replies
 
 ### 🏥 Hospital Appointment Booking Website
 - Responsive healthcare website UI
@@ -70,10 +74,7 @@ Final Year B.Tech ECE Student | Full Stack Developer | Python Learner | Problem 
 
 ### 📷 Camera-Based Vision Inspection System
 - Python + OpenCV + Raspberry Pi
-- Automated defect detection
-
+- Automated defect detection using computer vision
 
 ## 🏆 Coding Profiles
-
-- LeetCode: [https://leetcode.com](https://leetcode.com/u/mujammil_mk_07/)/mujammil_mk_07
-
+- LeetCode: [mujammil_mk_07](https://leetcode.com/u/mujammil_mk_07/)
